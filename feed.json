@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "QT Beauty Zone",
+    "description": "",
+    "home_page_url": "https://github.com/Lihanoqzi/QT",
+    "feed_url": "https://github.com/Lihanoqzi/QT/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "QT"
+    },
+    "items": [
+        {
+            "id": "https://github.com/Lihanoqzi/QT/qt-beauty-zone.html",
+            "url": "https://github.com/Lihanoqzi/QT/qt-beauty-zone.html",
+            "title": "QT Beauty Zone",
+            "summary": "「QT保養美學」名稱取自「Q彈」及「Cutie」諧音，為全新MIT保養品牌。 針對大眾常有之護膚需求，提出最天然純粹無負擔保養方案，讓所有使用者輕鬆擁有水嫩彈潤的健康膚質的美力使命。",
+            "content_html": "<p>「QT保養美學」名稱取自「Q彈」及「Cutie」諧音，為全新MIT保養品牌。</p>\n<p>針對大眾常有之護膚需求，提出最天然純粹無負擔保養方案，讓所有使用者輕鬆擁有水嫩彈潤的健康膚質的美力使命。</p>",
+            "author": {
+                "name": "QT"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-11-06T21:35:24+08:00",
+            "date_modified": "2023-11-06T21:35:24+08:00"
+        }
+    ]
+}
