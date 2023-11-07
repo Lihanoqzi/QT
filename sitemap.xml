@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/Lihanoqzi/QT/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://Lihanoqzi.github.io/QT/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/Lihanoqzi/QT/</loc>
-</url>
-<url>
-<loc>https://github.com/Lihanoqzi/QT/qt-beauty-zone.html</loc>
-<lastmod>2023-11-06T21:35:24+08:00</lastmod>
+<loc>https://Lihanoqzi.github.io/QT/</loc>
 </url>
 </urlset>
